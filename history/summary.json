@@ -4,19 +4,19 @@
     "url": "https://celus.serv00.net",
     "icon": "https://icons.duckduckgo.com/ip3/celus.serv00.net.ico",
     "slug": "serv00",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 706,
-    "timeDay": 584,
-    "timeWeek": 656,
-    "timeMonth": 709,
-    "timeYear": 706,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "92.85%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.93%",
+    "time": 712,
+    "timeDay": 932,
+    "timeWeek": 734,
+    "timeMonth": 727,
+    "timeYear": 712,
     "dailyMinutesDown": {
-      "2024-12-25": 0
+      "2024-12-25": 103
     }
   },
   {
